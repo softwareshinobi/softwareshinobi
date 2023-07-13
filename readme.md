@@ -1,12 +1,10 @@
-# howdy
+## Howdy! 👋👋
 
-## Howdy!
+Umm... welcome to my GitHub.
 
-Eum dolor amet qui ipsam architecto id accusantium dolorum.
+I'm a Software Developer & Technical Writer.
 
-Et quisquam dolore non incidunt iure quo galisum aliquam a nihil voluptatem ut alias quia.
-
-Eum similique magnam vel modi labore ut dolores odio et fuga maiores.
+I design, code, test, document, and deploy software things.
 
 ## What I Do / How I Help
 
@@ -42,11 +40,9 @@ Eum similique magnam vel modi labore ut dolores odio et fuga maiores.
 
 ## Check Out My Stuff
 
-Eum dolor amet qui ipsam architecto id accusantium dolorum.
+Check out my stuff to learn more about me and what I do and what I've created.
 
-Et quisquam dolore non incidunt iure quo galisum aliquam a.
-
-www.google.com
+www.allmylinks.com/software-shinobi
 
 ## Check out My Blog
 
@@ -65,24 +61,3 @@ Et quisquam dolore non incidunt iure quo galisum aliquam a.
 www.google.com
 
 
-
-
-
-
-
-
-## Legacy content
-
-# Software Shinobi!
-
-## Howdy! 👋
-
-Freelance Software Developer & Technical Writer.
-
-I design, code, test, document, and deploy software things.
-
-## Check Out My Website
-
-Check out my stuff to learn more about me and what I do and what I've created.
-
-https://www.softwareshinobi.online
