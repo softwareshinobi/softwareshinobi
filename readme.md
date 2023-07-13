@@ -14,34 +14,65 @@ You'll learn more about me, what I do and what I've created.
 
 https://www.allmylinks.com/software-shinobi
 
-## What I Do / How I Help
+## How I Help As A Developer
 
-As a developer, I do many things.
+As a developer, I do many things. 
+
+Wear many hats.
 
 It's a simple reality of our existence as life as a dev. [Whatever that means].
 
-But if i tried to boil down what I do into something short, I'd say something like the following:
+Software Developer Developer C'est La Vie.
+
+Somebody coin that.
+
+If i tried to boil down what I do as a software developer into something short, I'd say something like the following:
 
 - [ ] Rapid Software Prototyping
-- [ ] Agile Transformation and DevOps
 - [ ] UI and Backend Software Development
 - [ ] Cloud Computing and Hybrid IT
+- [ ] Agile Transformation and DevOps
 
-## About Me / My Story
+## About Me // Software Shinobi
 
-Eum dolor amet qui ipsam architecto id accusantium dolorum.
+In this section, I attempt to boil down over 15+ years of professional software development experience.
 
-Et quisquam dolore non incidunt iure quo galisum aliquam a.
+I've supported missions and initiatives in the private sector, the public sector, contracting, consulting, freelancing.
 
-nihil voluptatem ut alias quia.
+Whatever all of that means.
 
-Eum similique magnam vel modi labore ut dolores odio et fuga maiores.
+```
+**Editor’s Note:**
+
+ I totally love the idea of "Developer Of Fortune".
+
+But like "Soldiers Of Fortune", but i’m like a contract killer but i'm not a killer.
+
+And I like… save the day with my keyboard and the terminal from3rd world countries.
+
+Like Jack Bauer or something.
+
+Somebody get Steven Spielberg on the phone.
+
+```
+
+Anyways…
+
+Here’s my LinkedIn.
+
+Over on LinkedIn I go into more detail around my corporate experiences and stuff like that.
+
+https://linkedin.com/in/software-shinobi
 
 ## My Tool Stack / What I Use
 
-Below are the technologies I currently use to support the software development activities of my own projects or the projects of those who have desired my help.
+The first lesson in developer school is blame the tools and the stack.
 
-| Component or Step | Budget |
+So before i an do that, i first have to tell you some of the tools and stacks that I use.
+
+Here are technologies I currently or recently use to support the software situations of my own projects or the interesss and projects of those who have desired my help.
+
+| Capability |  |
 |-------------------|--------|
 |Languages   |  Java, SQL, JavaScript, HTML, JSP, React, React Native, Bash         
 |Development Operations| Jenkins, Bamboo, Nexus, Git, Subversion, HP Fortify, Docker
@@ -53,11 +84,15 @@ Below are the technologies I currently use to support the software development a
 
 ## Check Out My Stuff
 
-There is only so much room in this text box to share my stuff.
+Supposedly in order to receive, we must share.
 
-When you've got a sec, browse through my AllMyLinks at the link below.
+So let's do that.
+
+When you've got a sec, browse through my AllMyLinks page at the link below.
 
 On my AllMyLinks page you'll learn more about me and what I do and what I've created.
+
+This being done with intention to share with the Universe the fruits of my labor.
 
 https://www.allmylinks.com/software-shinobi
 
@@ -65,6 +100,10 @@ https://www.allmylinks.com/software-shinobi
 
 Shoot me an email.
 
-Tell me about your project and how I can help!
+Tell me about your software situation and how i can help!
 
 the.software.shinobi@gmail.com
+
+--
+
+*The Light In Me Acknowledges The Light In You.*
