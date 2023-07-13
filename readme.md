@@ -6,6 +6,12 @@ I'm a Software Developer & Technical Writer.
 
 I design, code, test, document, and deploy software things.
 
+--
+
+Should you be inclined, check out my stuff to learn more about me and what I do and what I've created.
+
+www.allmylinks.com/software-shinobi
+
 ## What I Do / How I Help
 
 Eum dolor amet qui ipsam architecto id accusantium dolorum. 
