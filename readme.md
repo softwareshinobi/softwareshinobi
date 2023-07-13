@@ -58,6 +58,4 @@ Eum dolor amet qui ipsam architecto id accusantium dolorum.
 
 Et quisquam dolore non incidunt iure quo galisum aliquam a.
 
-www.google.com
-
-
+th3.softwar3.sh1nob1@gmail.com
