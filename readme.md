@@ -16,15 +16,16 @@ https://www.allmylinks.com/software-shinobi
 
 ## What I Do / How I Help
 
-Eum dolor amet qui ipsam architecto id accusantium dolorum. 
+As a developer, I do many things.
 
-Et quisquam dolore non incidunt iure quo galisum aliquam a nihil:
+It's a simple reality of our existence as life as a dev. [Whatever that means].
 
-- [ ] voluptatem ut alias quia. 
-- [ ] Eum similique magnam vel.
+But if i tried to boil down what I do into something short, I'd say something like the following:
 
-- [ ] modi labore ut dolores
-- [ ] odio et fuga maiores.
+- [ ] Rapid Software Prototyping
+- [ ] Agile Transformation and DevOps
+- [ ] UI and Backend Software Development
+- [ ] Cloud Computing and Hybrid IT
 
 ## About Me / My Story
 
@@ -62,8 +63,8 @@ https://www.allmylinks.com/software-shinobi
 
 ## How Can I Help Your Project?
 
-Eum dolor amet qui ipsam architecto id accusantium dolorum.
+Shoot me an email.
 
-Et quisquam dolore non incidunt iure quo galisum aliquam a.
+Tell me about your project and how I can help!
 
-th3.softwar3.sh1nob1@gmail.com
+the.software.shinobi@gmail.com
