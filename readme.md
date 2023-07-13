@@ -41,13 +41,13 @@ Eum similique magnam vel modi labore ut dolores odio et fuga maiores.
 Below are the technologies I currently use to support the software development activities of my own projects or the projects of those who have desired my help.
 
 |-------------------|--------|
-|Languages   |  Java, SQL, JavaScript, HTML, JSP, React, React Native, Bash         |
-|Development Operations| Jenkins, Bamboo, Nexus, Git, Subversion, HP Fortify, Docker|
-|Virtualization| VMWare, Containers, VirtualBox, Xen|
-|Databases| MySQL, Oracle, Elasticsearch, DB2, Hadoop, SQL Server, MongoDB|
-|Application Servers| Wildfly, Tomcat, Glassfish, WebSphere|
-|Operating Systems| Microsoft Windows, Linux (RHEL, Ubuntu), Mac OS, Android, iOS, HP-UX|
-|Cloud Platforms and Services| Okta, Amazon AWS, ServiceNow, Digital Ocean, Form.io|
+|Languages   |  Java, SQL, JavaScript, HTML, JSP, React, React Native, Bash         
+|Development Operations| Jenkins, Bamboo, Nexus, Git, Subversion, HP Fortify, Docker
+|Virtualization| VMWare, Containers, VirtualBox, Xen
+|Databases| MySQL, Oracle, Elasticsearch, DB2, Hadoop, SQL Server, MongoDB
+|Application Servers| Wildfly, Tomcat, Glassfish, WebSphere
+|Operating Systems| Microsoft Windows, Linux (RHEL, Ubuntu), Mac OS, Android, iOS, HP-UX
+|Cloud Platforms and Services| Okta, Amazon AWS, ServiceNow, Digital Ocean, Form.io
 
 ## Check Out My Stuff
 
