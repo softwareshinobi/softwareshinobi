@@ -56,7 +56,7 @@ Eum dolor amet qui ipsam architecto id accusantium dolorum.
 
 Et quisquam dolore non incidunt iure quo galisum aliquam a.
 
-www.google.com
+https://www.softwareshinobi.online/developer-blog/
 
 ## CTA: Need An Experienced Developer For A Project? // How Can I Help?
 
