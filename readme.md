@@ -2,15 +2,17 @@
 
 Umm... welcome to my GitHub page.
 
-I'm a Software Developer & Technical Writer.
+I'm Troy, a Software Developer & Technical Writer.
 
-I design, code, test, document, and deploy software things.
+I design, code, test, document, and deploy software situations.
 
 --
 
-Should you be inclined, check out my stuff to learn more about me and what I do and what I've created.
+Should you be inclined, click the link below to see my stuff around the Internet.
 
-www.allmylinks.com/software-shinobi
+You'll learn more about me, what I do and what I've created.
+
+https://www.allmylinks.com/software-shinobi
 
 ## What I Do / How I Help
 
