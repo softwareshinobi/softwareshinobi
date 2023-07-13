@@ -40,8 +40,8 @@ Eum similique magnam vel modi labore ut dolores odio et fuga maiores.
 
 Below are the technologies I currently use to support the software development activities of my own projects or the projects of those who have desired my help.
 
-| Component or Step | Budget | Schedule | Resposibility |
-|-------------------|--------|----------|---------------|
+| Component or Step | Budget |
+|-------------------|--------|
 |Languages   |  Java, SQL, JavaScript, HTML, JSP, React, React Native, Bash         
 |Development Operations| Jenkins, Bamboo, Nexus, Git, Subversion, HP Fortify, Docker
 |Virtualization| VMWare, Containers, VirtualBox, Xen
