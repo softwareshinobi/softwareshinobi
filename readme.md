@@ -38,13 +38,15 @@ Eum similique magnam vel modi labore ut dolores odio et fuga maiores.
 
 ## My Tool Stack / What I Use
 
-Eum dolor amet qui ipsam architecto id accusantium dolorum.
-
-Et quisquam dolore non incidunt iure quo galisum aliquam a.
-
-nihil voluptatem ut alias quia.
-
-Eum similique magnam vel modi labore ut dolores odio et fuga maiores.
+| Component or Step | Budget |
+|-------------------|--------|
+|Languages   |  Java, SQL, JavaScript, HTML, JSP, React, React Native, Bash         |
+|Development Operations| Jenkins, Bamboo, Nexus, Git, Subversion, HP Fortify, Docker
+|Virtualization| VMWare, Containers, VirtualBox, Xen
+|Databases| MySQL, Oracle, Elasticsearch, DB2, Hadoop, SQL Server, MongoDB
+|Application Servers| Wildfly, Tomcat, Glassfish, WebSphere
+|Operating Systems| Microsoft Windows, Linux (RHEL, Ubuntu), Mac OS, Android, iOS, HP-UX
+|Cloud Platforms and Services| Okta, Amazon AWS, ServiceNow, Digital Ocean, Form.io
 
 ## Check Out My Stuff
 
