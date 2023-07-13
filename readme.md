@@ -1,6 +1,6 @@
 ## Howdy! 👋👋
 
-Umm... welcome to my GitHub.
+Umm... welcome to my GitHub page.
 
 I'm a Software Developer & Technical Writer.
 
