@@ -60,7 +60,7 @@ On my AllMyLinks page you'll learn more about me and what I do and what I've cre
 
 https://www.allmylinks.com/software-shinobi
 
-## How Can I Help Your Team?
+## How Can I Help Your Project?
 
 Eum dolor amet qui ipsam architecto id accusantium dolorum.
 
