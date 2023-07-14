@@ -53,7 +53,6 @@ And I like… save the day with my keyboard and the terminal from 3rd world coun
 Like Jack Bauer in the south american jungle or something.
 
 Somebody get Steven Spielberg on the phone.
-
 ```
 
 Anyways…
