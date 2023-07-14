@@ -52,7 +52,7 @@ And I like… save the day with my keyboard and the terminal from 3rd world coun
 
 Like Jack Bauer in the south american jungle or something.
 
-Somebody get Steven Spielberg on the phone.
+hmm... somebody get Steven Spielberg on the phone.
 ```
 
 Anyways…
@@ -65,11 +65,11 @@ https://linkedin.com/in/software-shinobi
 
 ## My Tool Stack / What I Use
 
-The *very first* lesson in software developer school is blame the tools and the stack and the dev environment.
+The *very first lesson* in software developer school is blame the tools and the stack and the dev environment.
 
 Blame everything on that. Everything. 
 
-And when that doesn't work, blame the database team. When that doesn't work, blame the network team.
+And when that doesn't work, blame the database. When that doesn't work, blame the network.
 
 The *final* lesson of developer school is to not ever talk about developer school.
 
@@ -79,7 +79,7 @@ I think there were threats of public stoning or something like that. i don't rem
 
 So before I can blame everything on the tools and the stack and the dev environments...
 
-I'll first need to share my own tools and stacks and stuff.
+I'll first need to share my own tools and stacks and environment stuff.
 
 | Capability |  |
 |-------------------|--------|
@@ -101,7 +101,7 @@ When you've got a sec, browse through my AllMyLinks page at the link below.
 
 On my AllMyLinks page I've shared things about me and what I've done and what I've created.
 
-I like to think of it as sharing my Magick with the Universe.
+I like to think of it as Intentionally sharing my Magick with the Universe.
 
 https://www.allmylinks.com/software-shinobi
 
@@ -117,17 +117,16 @@ the.software.shinobi@gmail.com
 
 Thanks for stopping by.
 
-May the Universe give you all that you truly desire.
+I'd love to have you over again.
+
+Until then, may the Universe give you all that you truly desire.
 
 *The Light In Me Acknowledges The Light In You.*
 
-umm...
-
-K. Tks. Byeee.
+umm... K. Tks. Byeee.
 
 --
 
 Regards,
 
 Software Shinobi
-
