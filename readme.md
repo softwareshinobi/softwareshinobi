@@ -31,7 +31,7 @@ If i tried to boil down what I do as a software developer into something short, 
 
 ## About Me // Software Shinobi
 
-In this section, I attempt to boil down over 15+ years of professional software development experience in like 100 words.
+In this section, I attempt to boil down over 15+ years of professional software development experience into like 100 words.
 
 I've supported missions and initiatives in the private sector, the public sector, contracting, consulting, freelancing.
 
