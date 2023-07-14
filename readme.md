@@ -41,7 +41,7 @@ I can comfortably say that the fruits of my software development labor have been
 
 So like... that's cool. At least to me. At one point in my life.
 
-And it's probably a billion people but i don't have the time to do the theoretical napkin math of source code impression proiferation.
+And it's probably a billion people but i don't have the time to do the theoretical napkin math of source code impression proliferation.
 
 Whatever any of that means.
 
@@ -77,7 +77,7 @@ Blame everything on that. Everything.
 
 And when that doesn't work, blame the database. When that doesn't work, blame the network.
 
-The *final* lesson of developer school is to not ever talk about developer school.
+The *final lesson* of developer school is to not ever talk about developer school.
 
 I think there were threats of public stoning or something like that. i don't remember.
 
@@ -85,7 +85,9 @@ I think there were threats of public stoning or something like that. i don't rem
 
 So before I can blame everything on the tools and the stack and the dev environments...
 
-I'll first need to share my own tools and stacks and environment stuff.
+I'll first need to share my own tools and stacks and dev environment stuff.
+
+If you didn't get asked [lol] to learn and build out new stuff in new languages and new technologies fast at your corporate developer job, did you work a corporate developer job?
 
 | Capability |  |
 |-------------------|--------|
@@ -107,11 +109,11 @@ When you've got a sec, browse through my AllMyLinks page at the link below.
 
 On my AllMyLinks page I've shared things about me and what I've done and what I've created.
 
-I like to think of it as Intentionally sharing my Magick with the Universe.
+I like to think of it as sharing my Magick with the Universe, with Intention.
 
 https://www.allmylinks.com/software-shinobi
 
-## How Can I Help Your Project?
+## How Can I Help Your Project As A Software Developer?
 
 Shoot me an email.
 
