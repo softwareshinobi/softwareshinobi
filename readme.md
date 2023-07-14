@@ -66,11 +66,11 @@ https://linkedin.com/in/software-shinobi
 
 ## My Tool Stack / What I Use
 
-The *first* lesson in software developer school is blame the tools and the stack and the dev environment. Blame everything on that. Everything. 
+The *very first* lesson in software developer school is blame the tools and the stack and the dev environment.
 
-And when that doesn't work, blame the database team.
+Blame everything on that. Everything. 
 
-When that doesn't work, blame the network team.
+And when that doesn't work, blame the database team. When that doesn't work, blame the network team.
 
 The *final* lesson of developer school is to not ever talk about developer school.
 
@@ -80,7 +80,7 @@ I think there were threats of public stoning or something like that. i don't rem
 
 So before I can blame everything on the tools and the stack and the dev environments...
 
-Here is the tech and softare that i used when it's time to do software developer things:
+I'll first need to share my own tools and stacks and stuff.
 
 | Capability |  |
 |-------------------|--------|
