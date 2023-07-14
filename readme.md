@@ -20,20 +20,18 @@ As a developer, I do many things. Wear many hats.
 
 It's a shared reality of existence as a software developer.
 
-Software Developer Developer C'est La Vie.
-
-Somebody coin that.
+Software Developer Developer C'est La Vie, if you will.
 
 If i tried to boil down what I do as a software developer into something short, I'd say something like the following:
 
+- [ ] POC And MVP Development Support
 - [ ] Rapid Software Prototyping
-- [ ] UI and Backend Software Development
-- [ ] Cloud Computing and Hybrid IT
-- [ ] Agile Transformation and DevOps
+- [ ] Capability Feasability Research & Development
+- [ ] Software Delivery and Operations Supports
 
 ## About Me // Software Shinobi
 
-In this section, I attempt to boil down over 15+ years of professional software development experience.
+In this section, I attempt to boil down over 15+ years of professional software development experience in like 100 words.
 
 I've supported missions and initiatives in the private sector, the public sector, contracting, consulting, freelancing.
 
