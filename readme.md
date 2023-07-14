@@ -40,15 +40,17 @@ I've supported missions and initiatives in the private sector, the public sector
 Whatever all of that means.
 
 ```
-**Editor’s Note:**
+Editor’s Note:
 
- I totally love the idea of "Developer Of Fortune".
+I totally love the idea of "Developer Of Fortune".
 
 But like "Soldiers Of Fortune", but i’m like a contract killer but i'm not a killer.
 
-And I like… save the day with my keyboard and the terminal from3rd world countries.
+I'm just a developer.
 
-Like Jack Bauer or something.
+And I like… save the day with my keyboard and the terminal from 3rd world countries.
+
+Like Jack Bauer in the south american jungle or something.
 
 Somebody get Steven Spielberg on the phone.
 
@@ -120,6 +122,8 @@ May the Universe give you all that you truly desire.
 
 *The Light In Me Acknowledges The Light In You.*
 
+umm...
+
 K. Tks. Byeee.
 
 --
@@ -127,3 +131,4 @@ K. Tks. Byeee.
 Regards,
 
 Software Shinobi
+
