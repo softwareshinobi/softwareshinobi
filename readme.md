@@ -87,7 +87,7 @@ So before I can blame everything on the tools and the stack and the dev environm
 
 I'll first need to share my own tools and stacks and dev environment stuff.
 
-If you didn't get asked [lol] to learn and build out new stuff in new languages and new technologies fast at your corporate developer job, did you work a corporate developer job?
+With this out of the way, i can start blaming other people's stacks.
 
 | Capability |  |
 |-------------------|--------|
@@ -107,7 +107,7 @@ So let's do that.
 
 When you've got a sec, browse through my AllMyLinks page at the link below.
 
-On my AllMyLinks page I've shared things about me and what I've done and what I've created.
+On my AllMyLinks page I've shared things about me and shared what I've done and shared what I've created.
 
 I like to think of it as sharing my Magick with the Universe, with Intention.
 
