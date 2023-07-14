@@ -16,11 +16,9 @@ https://www.allmylinks.com/software-shinobi
 
 ## How I Help As A Developer
 
-As a developer, I do many things. 
+As a developer, I do many things. Wear many hats.
 
-Wear many hats.
-
-It's a simple reality of our existence as life as a dev. [Whatever that means].
+It's a shared reality of existence as a software developer.
 
 Software Developer Developer C'est La Vie.
 
@@ -66,11 +64,21 @@ https://linkedin.com/in/software-shinobi
 
 ## My Tool Stack / What I Use
 
-The first lesson in developer school is blame the tools and the stack.
+The *first* lesson in software developer school is blame the tools and the stack and the dev environment. Blame everything on that. Everything. 
 
-So before i an do that, i first have to tell you some of the tools and stacks that I use.
+And when that doesn't work, blame the database team.
 
-Here are technologies I currently or recently use to support the software situations of my own projects or the interesss and projects of those who have desired my help.
+When that doesn't work, blame the network team.
+
+The *final* lesson of developer school is to not ever talk about developer school.
+
+I think there were threats of public stoning or something like that. i don't remember.
+
+--
+
+So before I can blame everything on the tools and the stack and the dev environments...
+
+Here is the tech and softare that i used when it's time to do software developer things:
 
 | Capability |  |
 |-------------------|--------|
@@ -84,15 +92,15 @@ Here are technologies I currently or recently use to support the software situat
 
 ## Check Out My Stuff
 
-Supposedly in order to receive, we must share.
+I once thumbed through a book that suggested in order to receive, we must share.
 
 So let's do that.
 
 When you've got a sec, browse through my AllMyLinks page at the link below.
 
-On my AllMyLinks page you'll learn more about me and what I do and what I've created.
+On my AllMyLinks page I've shared things about me and what I've done and what I've created.
 
-This being done with intention to share with the Universe the fruits of my labor.
+I like to think of it as sharing my Magick with the Universe.
 
 https://www.allmylinks.com/software-shinobi
 
@@ -104,6 +112,18 @@ Tell me about your software situation and how i can help!
 
 the.software.shinobi@gmail.com
 
---
+## Before You Go
+
+Thanks for stopping by.
+
+May the Universe give you all that you truly desire.
 
 *The Light In Me Acknowledges The Light In You.*
+
+K. Tks. Byeee.
+
+--
+
+Regards,
+
+Software Shinobi
