@@ -33,9 +33,17 @@ If i tried to boil down what I do as a software developer into something short, 
 
 In this section, I attempt to boil down over 15+ years of professional software development experience into like 100 words.
 
-I've supported missions and initiatives in the private sector, the public sector, contracting, consulting, freelancing.
+--
 
-Whatever all of that means.
+I've supported missions and initiatives in the private sector, the public sector, contracting, consulting, freelancing, and whatever is in between all that.
+
+I can comfortably say that the fruits of my software development labor have been consumed by at least half a billion people around the Globe.
+
+So like... that's cool. At least to me. At one point in my life.
+
+And it's probably a billion people but i don't have the time to do the theoretical napkin math of source code impression proiferation.
+
+Whatever any of that means.
 
 ```
 Editor’s Note:
@@ -46,9 +54,9 @@ But like "Soldiers Of Fortune", but i’m like a contract killer but i'm not a k
 
 I'm just a developer.
 
-And I like… save the day with my keyboard and the terminal from 3rd world countries.
+And I like… save the day with my keyboard and the linux terminal from 3rd world countries.
 
-Like Jack Bauer in the south american jungle or something.
+Like Jack Bauer in the south american jungle or something like that.
 
 hmm... somebody get Steven Spielberg on the phone.
 ```
@@ -61,7 +69,7 @@ Over on LinkedIn I go into more detail around my corporate experiences and stuff
 
 https://linkedin.com/in/software-shinobi
 
-## My Tool Stack / What I Use
+## My Tool Stack / The Tech I Use
 
 The *very first lesson* in software developer school is blame the tools and the stack and the dev environment.
 
