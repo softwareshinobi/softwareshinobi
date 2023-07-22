@@ -20,14 +20,14 @@ As a developer, I do many things. Wear many hats.
 
 It's a shared reality of existence as a software developer.
 
-Software Developer Developer C'est La Vie, if you will.
+"Software Developer C'est La Vie", if you will.
 
 If i tried to boil down what I do as a software developer into something short, I'd say something like the following:
 
 - [ ] POC And MVP Development Support
 - [ ] Rapid Software Prototyping
-- [ ] Capability Feasability Research & Development
-- [ ] Software Delivery and Operations Supports
+- [ ] Capability / Feasability / Research & Development
+- [ ] Software Delivery and Operations Support
 
 ## About Me // Software Shinobi
 
