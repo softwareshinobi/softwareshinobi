@@ -1,4 +1,4 @@
-## Howdy! Software Shinobi here. 👋👋
+## Howdy! 👋👋
 
 So umm... welcome to my GitHub page.
 
