@@ -1,6 +1,6 @@
-## Howdy! 👋👋
+## Howdy! Software Shinobi here. 👋👋
 
-Umm... welcome to my GitHub page.
+So umm... welcome to my GitHub page.
 
 I'm Troy, a Software Developer & Technical Writer.
 
@@ -107,9 +107,9 @@ So let's do that.
 
 When you've got a sec, browse through my AllMyLinks page at the link below.
 
-On my AllMyLinks page I've shared things about me and shared what I've done and shared what I've created.
+On my AllMyLinks page I've shared things about me and I've shared what I've done and I've shared what I've created.
 
-I like to think of it as sharing my Magick with the Universe, with Intention.
+I like to think of it all as sharing my personal brand of magick with the Universe, with Intention. Whatever any of that means.
 
 https://www.allmylinks.com/software-shinobi
 
@@ -121,22 +121,24 @@ Tell me about your software situation and how i can help!
 
 the.software.shinobi@gmail.com
 
-## Before You Go
+## Before You Go...
 
-Thanks for stopping by.
+So thanks for stopping by.
 
 I'd love to have you over again.
 
 Until then, may the Universe give you all that you truly desire.
 
-*The Light In Me Acknowledges The Light In You.*
+*The light in me acknowledges the light in you.*
 
-umm... K. Tks. Byeee.
+umm...
+
+K. Tks. Byeee.
 
 --
 
-Regards,
+From my Universe to yours with lots of love,
 
-Software Shinobi
+Troy "Software Shinobi" Burney
 
 https://www.allmylinks.com/software-shinobi
