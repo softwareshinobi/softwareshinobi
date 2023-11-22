@@ -12,7 +12,7 @@ Should you be inclined, click the link below to see my stuff around the Internet
 
 You'll learn more about me, what I do and what I've created.
 
-https://links.softwareshinobi.online
+https://links.softwareshinobi.digital
 
 ## How I Help As A Developer
 
@@ -111,7 +111,8 @@ On my AllMyLinks page I've shared things about me and I've shared what I've done
 
 I like to think of it all as sharing my personal brand of magick with the Universe, with Intention. Whatever any of that means.
 
-https://links.softwareshinobi.online
+[https://links.softwareshinobi.online
+](https://links.softwareshinobi.digital)
 
 ## How Can I Help Your Project As A Software Developer?
 
@@ -119,7 +120,7 @@ Shoot me an email.
 
 Tell me about your software situation and how i can help!
 
-troy@softwareshinobi.online
+the.software.shinobi@gmail.com
 
 ## Before You Go...
 
@@ -141,4 +142,5 @@ From my Universe to yours with lots of love,
 
 Troy "Software Shinobi" Burney
 
-https://links.softwareshinobi.online
+[https://links.softwareshinobi.online
+](https://links.softwareshinobi.digital)https://links.softwareshinobi.digital
