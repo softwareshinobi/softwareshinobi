@@ -1,16 +1,25 @@
-## Hi there 👋
+## Software Shinobi
 
-<!--
-**softwareshinobi/softwareshinobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full Stack Java Developer. Creating and deploying web apps, server backends, and cloud linux situations.
 
-Here are some ideas to get you started:
+I'm a java developer who makes web interfaces and backends and server deploys and all that.
+
+I used to do all this for Fortune 8 companies and for the US Federal government. So bringing lessons learned in the field to my own activites.
+
+## Quick Look
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
--->
