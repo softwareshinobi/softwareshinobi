@@ -1,7 +1,6 @@
-## Software Shinobi
+## Doing Developer Things
 
-Senior Full Stack Java Developer. Creating and deploying web apps, server backends, and cloud linux situations.
+Here's a bunch of my code and projects.
 
-I'm a java developer who makes web interfaces and backends and server deploys and all that.
+Knock yourself out.
 
-I used to do all this for Fortune 8 companies and for the US Federal government. So bringing lessons learned in the field to my own activites.
