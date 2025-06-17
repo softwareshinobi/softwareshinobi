@@ -1,6 +1,6 @@
 ### I Build the Full-Stack Prototypes That Pioneer New Capabilities.
 
-I specialize in turning ambitious concepts into functional, end-to-end systems. My focus is on writing clean, scalable code that serves as a robust foundation for what's next. I own the entire process, from back-end architecture and cloud infrastructure to the UI, to rapidly deliver systems that prove an idea is viable.
+I transform ambitious concepts into viable, full-stack systems. By owning the entire process from code to cloud, I rapidly deliver robust foundations that prove what's possible.
 
 ### 🛠️ My Toolbox
 
@@ -39,7 +39,9 @@ I specialize in turning ambitious concepts into functional, end-to-end systems. 
 ### Principles
 
 * **Foundation, Not Facade:** I write clean, documented, and scalable code that serves as a solid foundation for future development.
+
 * **End-to-End Ownership:** I take responsibility for the full lifecycle, from architecture to deployment, ensuring a cohesive and functional system.
+
 * **Pragmatism Over Dogma:** I choose the right tool for the job. The goal is always to deliver a robust, working system efficiently.
 
 ---
@@ -47,4 +49,5 @@ I specialize in turning ambitious concepts into functional, end-to-end systems. 
 ### 📫 Get In Touch
 
 * **LinkedIn:** [linkedin.com/in/softwareshinobi](https://linkedin.com/in/softwareshinobi)
+
 * **Email:** [troy@softwareshinobi.com](mailto:troy@softwareshinobi.com)
