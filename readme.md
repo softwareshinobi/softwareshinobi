@@ -19,20 +19,15 @@ I transform ambitious concepts into viable, full-stack systems. By owning the en
 <br>
 <img src="https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/GCP-333333?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/> <img src="https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Jenkins-333333?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/> <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
 
-
 ## 🚀 Featured Repositories
 
-> **Stealth Forex Trading Framework** | [View Repo →](https://www.google.com/search?q=)
+> **Project Chimba Trading Automation** | [View Repo →](https://github.com/softwareshinobi/project-chimba-trading-automation)
 >
->   - **Mission:** A full-stack application to test a trading thesis: can an automated strategy be made more resilient by hiding its exit points from the broker?
+> Stealth Forex Trading Framework for automated trading scenarios.
+>
+>   - **Mission:** A high-performance Java-based trading robot engineered to aggressively exploit fleeting 1-minute market opportunities on four major Forex pairs by utilizing a refined SMA(4) strategy. Its mission is to operate as a 24/7 money-making machine, maximizing profit potential through lightning-fast parallel processing.
 >   - **Key Outcome:** Delivered a functional proof-of-concept that executes the "stealth" trading strategy, complete with a Java back end and a web UI for real-time monitoring.
->   - **Tech:** `Java`, `Spring Boot`, `OANDA v20 API`, `Bootstrap`, `jQuery`
-
-> **Project Name 2** | [View Repo →](https://www.google.com/search?q=)
->
->   - **Mission:** A full-stack system designed to solve [SPECIFIC PROBLEM]. For example: `A system to streamline federal tax data submission via dynamic user interfaces.`
->   - **Key Outcome:** What was the result? For example: `Reduced data entry errors and processing time by creating an intuitive, wizard-style submission pathway.`
->   - **Tech:** `React, Java, Spring Boot, PostgreSQL`
+>   - **Tech:** `Java 17, Spring Boot, OANDA v20 API, Multi-threading, Docker, HTML/CSS/JavaScript (Web UI)`
 
 ---
 
