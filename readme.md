@@ -1,8 +1,8 @@
-### I Build the Full-Stack Prototypes That Pioneer New Capabilities.
+# I Build the Full-Stack Prototypes That Pioneer New Capabilities.
 
 I transform ambitious concepts into viable, full-stack systems. By owning the entire process from code to cloud, I rapidly deliver robust foundations that prove what's possible.
 
-### 🛠️ My Toolbox
+## 🛠️ My Toolbox
 
 **Programming** <br>
 <img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/Bash-333333?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/> <img src="https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
@@ -31,7 +31,7 @@ I transform ambitious concepts into viable, full-stack systems. By owning the en
 
 ---
 
-### Principles
+## Principles
 
 * **Foundation, Not Facade:** I write clean, documented, and scalable code that serves as a solid foundation for future development.
 
@@ -41,8 +41,8 @@ I transform ambitious concepts into viable, full-stack systems. By owning the en
 
 ---
 
-### 📫 Get In Touch
+## 📫 Find Me Online
 
 * **LinkedIn:** [linkedin.com/in/softwareshinobi](https://linkedin.com/in/softwareshinobi)
-
-* **Email:** [troy@softwareshinobi.com](mailto:troy@softwareshinobi.com)
+* **You Tube:** [linkedin.com/in/softwareshinobi](https://linkedin.com/in/softwareshinobi)
+* **Blog:** [linkedin.com/in/softwareshinobi](https://linkedin.com/in/softwareshinobi)
