@@ -4,7 +4,7 @@
 
 ---
 
-### 💡 The Value Proposition: From Concept to Scale
+## 💡 The Value Proposition: From Concept to Scale
 
 For **15+ years**, I've specialized in R&D and rapid prototyping. I've buttered my bread by **bridging the gap between R&D and production**.
 
@@ -23,7 +23,7 @@ You're here for the proof. Don't look through old commit histories. Look at what
 
 ---
 
-### 🛠 Technical Competency Checklist
+## 🛠 Technical Competency Checklist
 
 A quick scan of the core technologies I use to own the full R&D to production lifecycle:
 
@@ -36,9 +36,9 @@ A quick scan of the core technologies I use to own the full R&D to production li
 
 ---
 
-### 📬 Contact & Next Steps
+## 📬 Contact & Next Steps
 
 Ready for the interview? These are the primary channels:
 
 * **Email:** troy.burney@gmail.com
-* **Resume:** [Link to your PDF Resume]
+* **Resume:** **[Troy Burney Resume (PDF)](https://links.softwareshinobi.com/troy-burney-resume.pdf)**
