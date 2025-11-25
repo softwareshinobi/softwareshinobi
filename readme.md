@@ -16,13 +16,6 @@ You're here for the proof. Don't look through old commit histories. Look at what
 
 ---
 
-## ⚡ THE ONLY LINK THAT MATTERS (View the Live Systems)
-
-### **Proof of Concept Validity: View the Live Artifacts**
-### **[https://links.softwareshinobi.com](https://links.softwareshinobi.com)**
-
----
-
 ## 🛠 Technical Competency Checklist
 
 A quick scan of the core technologies I use to own the full R&D to production lifecycle:
@@ -34,11 +27,12 @@ A quick scan of the core technologies I use to own the full R&D to production li
 | **Cloud / Infra** | AWS (EC2, VPC, RDS, CloudWatch), GCP, Docker, Linux (Ubuntu, RHEL) |
 | **Identity / Sec** | Okta (SSO, Lifecycle Management), Active Directory Integration |
 
----
+## Find Me Around the Web
 
-## 📬 Contact & Next Steps
+If you want to see what I'm currently building, troubleshooting, or thinking about, here are the best spots:
 
-Ready for the interview? These are the primary channels:
-
+* **Blog:** [https://softwareshinobi.online](https://softwareshinobi.online)
+* **YouTube:** [https://youtube.com/@softwareshinobi](https://youtube.com/@softwareshinobi)
+* **Resume:** [troy-burney-resume.pdf](https://links.softwareshinobi.online/troy-burney-resume.pdf)
+* **LinkedIn:** [https://linkedin.com/in/troyburney](https://linkedin.com/in/troyburney)
 * **Email:** troy.burney@gmail.com
-* **Resume:** **[Troy Burney Resume (PDF)](https://links.softwareshinobi.com/troy-burney-resume.pdf)**
